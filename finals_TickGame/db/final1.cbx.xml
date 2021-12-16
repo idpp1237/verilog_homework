@@ -1,6 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="final1">
-		<CBX_INST_ENTRY INSTANCE_NAME="|final1|counter:countTime|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_v6m.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
