@@ -5,7 +5,7 @@
 A
 全自動模式：
 當sw[0]為0時，Traffic Light 依照下列順序所示重複轉換：
-請在七段顯示器顯示剩餘秒數
+請在七段顯示器顯示剩餘秒數 "\n"
 A綠燈→ on ，B紅燈→ on ：5s (Others are off)
 A黃燈→ on ，B紅燈→ on ：3s (Others are off)
 A紅燈→ on ，B綠燈→ on ：4s (Others are off)
