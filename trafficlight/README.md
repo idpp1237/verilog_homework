@@ -19,5 +19,8 @@ B
 ![image](https://github.com/idpp1237/verilog_homework/blob/master/trafficlight/architecture.jpg)
 
 
+
+
+
 範例
 ![image](https://github.com/idpp1237/verilog_homework/blob/master/trafficlight/example.jpg)
