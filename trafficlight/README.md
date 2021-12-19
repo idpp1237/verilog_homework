@@ -6,14 +6,14 @@ A
 全自動模式：
 當sw[0]為0時，Traffic Light 依照下列順序所示重複轉換：                                                                                                                               
 請在七段顯示器顯示剩餘秒數 
-A綠燈→ on ，B紅燈→ on ：5s (Others are off)
-A黃燈→ on ，B紅燈→ on ：3s (Others are off)
-A紅燈→ on ，B綠燈→ on ：4s (Others are off)
-A紅燈→ on ，B黃燈→ on ：3s (Others are off)
+A綠燈→ on ，B紅燈→ on ：5s (Others are off)                                                                                                                                       
+A黃燈→ on ，B紅燈→ on ：3s (Others are off)                                                                                                                                       
+A紅燈→ on ，B綠燈→ on ：4s (Others are off)                                                                                                                                       
+A紅燈→ on ，B黃燈→ on ：3s (Others are off)                                                                                                                                       
 
 B
-手動模式：
-當sw[0]為1時，Traffic Light狀態轉換為手動模式，由KEY2(iHand)控制，KEY2(iHand)被觸發時Traffic Light轉換至下一狀態，其他時間則維持原狀態不變，狀態順序和全自動模式相同。
+手動模式：                                                                                                                                                                         
+當sw[0]為1時，Traffic Light狀態轉換為手動模式，由KEY2(iHand)控制，KEY2(iHand)被觸發時Traffic Light轉換至下一狀態，其他時間則維持原狀態不變，狀態順序和全自動模式相同。                       
 
 架構圖
 
