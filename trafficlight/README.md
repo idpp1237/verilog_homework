@@ -16,6 +16,7 @@ B
 當sw[0]為1時，Traffic Light狀態轉換為手動模式，由KEY2(iHand)控制，KEY2(iHand)被觸發時Traffic Light轉換至下一狀態，其他時間則維持原狀態不變，狀態順序和全自動模式相同。
 
 架構圖
+
 ![image](https://github.com/idpp1237/verilog_homework/blob/master/trafficlight/architecture.jpg)
 
 
@@ -23,4 +24,5 @@ B
 
 
 範例
+
 ![image](https://github.com/idpp1237/verilog_homework/blob/master/trafficlight/example.jpg)
